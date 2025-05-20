@@ -6,6 +6,7 @@
 
 - [1. Two Sum](./solutions/0001.two-sum.md)
 - [9. Palindrome Number](./solutions/0009.palindrome-number.md)
+- [13. Roman to Integer](./solutions/0013.roman-to-integer.md)
 - [20. Valid Parentheses](./solutions/0020.valid-parentheses.md)
 - [200. Number of Islands](./solutions/0200.number-of-islands.md)
 - [1071. Greatest Common Divisor of Strings](./solutions/1071.greatest-common-divisor-of-strings.md)
